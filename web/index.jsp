@@ -15,6 +15,7 @@
     <li><a href="JLJM.jsp">Jose Luis Jara Mamani</a></li>
     <li><a href="RSM.jsp">Rolly Sánchez Misaico</a></li>
     <li><a href="GTT.jsp">Gerardo Toscano Torres</a></li>
+    <li><a href="OLE.jsp">Omar Leòn Estofanero</a></li>
     <li><a href="MAPH.jsp">Miguel Angel Poma Hinostroza</a></li>
   </ul>
   </body>
