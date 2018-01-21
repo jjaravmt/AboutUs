@@ -15,7 +15,7 @@
     <h1>Sobre mi</h1>
     <p>soy estudiante de ing de sistemas.Me gusta leer libros desconocidos y jugar al fùtbol.</p>
     <p>Mas informacion por agregar</p>
-    <p>Soy una mierda</p>
+    
 </ul>
 </body>
 </html>
