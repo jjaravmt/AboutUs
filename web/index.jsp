@@ -11,7 +11,7 @@
     <title>About us</title>
   </head>
   <body>
-  <h1>About Inkacoders Team</h1>
+  <h1>About InkaCoders Team</h1>
   <ul>
     <li><a href="JLJM.jsp">Jose Luis Jara Mamani</a></li>
     <li><a href="RSM.jsp">Rolly Sánchez Misaico</a></li>
