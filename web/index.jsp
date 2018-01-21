@@ -13,6 +13,7 @@
   <body>
   <ul>
     <li><a href="JLJM.jsp">Jose Luis Jara Mamani</a></li>
+    <li><a href="RSM.jsp">Rolly Sánchez Misaico</a></li>
   </ul>
   </body>
 </html>
