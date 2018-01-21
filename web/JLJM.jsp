@@ -14,6 +14,7 @@
   <ul>
       <h1>Sobre mi</h1>
       <p>soy estudiante de ing de sistemas</p>
+      <p>Mas informacion por agregar</p>
   </ul>
   </body>
 </html>
