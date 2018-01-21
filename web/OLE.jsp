@@ -2,19 +2,19 @@
   Created by IntelliJ IDEA.
   User: Administrador
   Date: 20/01/2018
-  Time: 20:33
+  Time: 21:07
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
+<head>
     <title>About us</title>
-  </head>
-  <body>
-  <ul>
-    <li><a href="JLJM.jsp">Jose Luis Jara Mamani</a></li>
-    <li><a href="RSM.jsp">Rolly Sánchez Misaico</a></li>
-    <li><a href="OLE.jsp">Omar Leòn Estofanero</a></li>
-  </ul>
-  </body>
+</head>
+<body>
+<ul>
+    <h1>Sobre mi</h1>
+    <p>Soy un estudiante de ingenieria sistemas</p>
+    <p>Me gusta juagr Dota</p>
+</ul>
+</body>
 </html>
